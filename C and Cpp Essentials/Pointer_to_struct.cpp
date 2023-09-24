@@ -10,7 +10,8 @@ struct Rectangle
     int breadth;
 };
 
-int area(struct Rectangle r1){
+//this(call by ref)  works same as call by value but different object is not created in the heap
+int area(struct Rectangle &r1){
     r1.length = 50;
     return (r1.length*r1.breadth);
 }
