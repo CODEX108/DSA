@@ -1,5 +1,6 @@
-SETS
-0 1 2 3 4 5 
-0 2 3 4 5 
-is -5 present? -> 0
-5 10 40 
+1 2 3 5 
+Finding 3 => 1before erase
+1 2 3 5 
+After erase
+1 2 5 
+Found 1 Manjiri
