@@ -1,6 +1,0 @@
-1 2 3 5 
-Finding 3 => 1before erase
-1 2 3 5 
-After erase
-1 2 5 
-Found 1 Manjiri
